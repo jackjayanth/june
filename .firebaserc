@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "june-82fc9": {
+      "hosting": {
+        "june": [
+          "june-82fc9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "june-82fc9"
+  }
+}
